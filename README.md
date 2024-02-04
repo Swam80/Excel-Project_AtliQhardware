@@ -1,7 +1,7 @@
 ## Introduction
 
 AtliQ Hardware is a significant player in the hardware industry, offering a wide range of products including PCs, mouse, computers, networking, and storage solutions across many countries. They connect with customers through diverse channels such as retail stores, distributors, and their exclusive showrooms, both in physical locations and online platforms. 
-In this project, I designed a sales report using pivot tables in Excel that will allow businesses to estimate successful customer discounts, facilitate consumer negotiations, and uncover new business expansion chances in promising countries. The created reports will give businesses with actionable insights and recommendations to optimize their sales methods, improve customer satisfaction, and increase income production.
+- In this project, I designed a sales report using pivot tables in Excel that will allow businesses to estimate successful customer discounts, facilitate consumer negotiations, and uncover new business expansion chances in promising countries. The created reports will give businesses with actionable insights and recommendations to optimize their sales methods, improve customer satisfaction, and increase income production.
 
 ## Sales Report :
 
