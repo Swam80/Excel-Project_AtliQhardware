@@ -1,3 +1,5 @@
+# Financial and Sales Analysis of AtliQ Hardware using Excel
+
 ## Introduction
 
 AtliQ Hardware is a significant player in the hardware industry, offering a wide range of products including PCs, mouse, computers, networking, and storage solutions across many countries. They connect with customers through diverse channels such as retail stores, distributors, and their exclusive showrooms, both in physical locations and online platforms. 
